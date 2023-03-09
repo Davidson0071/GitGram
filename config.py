@@ -5,4 +5,4 @@ BOT_TOKEN = "6079084750:AAHTEd_yk2caumzfBmkH02pyqSp-nQV118o"
 PROJECT_NAME = "GitTelBot"
 
 # If you forked the source code, grab your repo's link and paste it below!
-GIT_REPO_URL = "https://github.com/MadeByThePinsHub/GitGram"
+GIT_REPO_URL = "https://github.com/Davidson0071/GitGram"
