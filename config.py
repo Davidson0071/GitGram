@@ -1,5 +1,5 @@
 # Your Bot token in the quotes taken from @BotFather
-BOT_TOKEN = "1158822364:AAEgnhKPvoTbPU5KnO8iMYqQfuF_XcxbBUE"
+BOT_TOKEN = "6079084750:AAHTEd_yk2caumzfBmkH02pyqSp-nQV118o"
 
 # Project Name of your Project
 PROJECT_NAME = "GitGram"
